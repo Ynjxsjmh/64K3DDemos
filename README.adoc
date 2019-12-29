@@ -1,0 +1,72 @@
+= A bit more about 64K 3D demos
+Ynjxsjmh <https://github.com/Ynjxsjmh[@Ynjxsjmh]>
+:toc: left
+:toclevels: 4
+:experimental:
+
+
+> 每年，世界各地著名的 Warez 组织都会推出一个小的动画片来比较，仅仅是用来炫耀其实力—64K 的 3D 动画。
+> 
+> 要知道，一首普通的 MP3 ，通常就有 4000K 左右，一张普通的 JPG 压缩图片也要 30－40K ，而这个仅有 63K 的 3D 动画，你花半个小时也看不完而且不重复带音乐，最经典力作！将 1.9G 的数据压缩为 64K ，其 3D 渲染和声效却令人震撼，尤其是已 64K 的大小竟然演示了近 30 分钟的不重复 3D 影片，其技术令人震惊～因为，事实上，这个动画的真正容量超过 15G ，也就是说这个 Warez 组织把它压缩了 25 万倍。注：系统必须安装有 directx9.0 才行。因为动画支持 DX9.0 加速。
+
+前段时间在网上冲浪时，这段文字抓住了我的眼球，但遗憾的是这段文字的出处我没考证出来。
+
+我找到的排版比较好的，文字比较多的，时间比较早的中文文章有如下一篇
+
+. http://blog.sina.com.cn/s/blog_4dc0dd020100h8dz.html[64K 完美 3D 动漫作品]
+
+上面那篇文章中提到的部分动画可以在 http://awards.scene.org/archive.php 2004 年下下载。
+
+关于 Warez 组织的介绍
+
+* https://en.wikipedia.org/wiki/Warez_group[Wikipedia: Warez_group]
+* https://baike.baidu.com/item/WAREZ[百度百科：WareZ]
+* https://vimeo.com/341663153[The Art of Warez [video]] - https://news.ycombinator.com/item?id=20596454[Comments on Hacker News]
+
+相关组织有 https://en.wikipedia.org/wiki/List_of_warez_groups[List of warez groups]
+
+这种动画称为 https://en.wikipedia.org/wiki/Demoscene[DEMO](demonstration），有关与此的信息有：
+
+* Main demoscene centers
+** http://www.scene.org/[scene.org] - the biggest demoarchive on the Web
+** http://www.pouet.net/[pouet.net] - your online demoscene resource; thousands of productions, thousands of comments
++
+你可以在 pouet 上 http://www.pouet.net/prodlist.php?type%5B%5D=64b&page=1[搜寻到] 很多此类作品。
+** http://www.bitfellas.org/[bitfellas.org] - demoscene community and information portal
+** https://demozoo.org/[demozoo.org] - demoscene productions, groups and parties
+** https://hardcode.untergrund.net/[HardCode] - 64KB and smaller intros hosted by a collector
+
+* https://en.wikipedia.org/wiki/Demogroup[Related Groups]
+** Conspiracy
++
+Since 2003 the hungarian demogroup is grabbing the attention of the demoscene especially with their intros. "Beyond Expectations" is their claim and what they produce.
+** Haujobb
++
+Haujobb hasn't only been in the demoscene for over 10 years now. It is scene history. There has hardly ever been a party where Haujobb didn't win a competition or was at least mentioned in other productions. Its members spread widely across Europe and even further.
+** https://en.wikipedia.org/wiki/Farbrausch[Farbrausch]，Github 页面 https://github.com/farbrausch
++
+Nowadays, there is only one way of getting around Farbrausch in a competition. When Farbrausch doesn't compete. In the last years, these guys haven't only won piles of competitions. They set a new standard in intro design.
+** MFX
++
+MFX is a standard in the demoscene although you never know what to expect. Once they produce straight forward and catchy demos, the next time you wonder if your monitor finally totally broke. From experimental to compo-winning stuff, MFX has done it all.
+** Kolor
++
+The Kolor guys have been around since 1996 and have won a number of prizes at several parties. They're universal artists and have done everything from 4kb intros to T-shirt design for demoparties, from classic demos to utmost stylish 3D modelling worlds. Whenever there is a fresh breeze in the demoscene there is a good chance that Kolor has been the source.
+** You can search more on http://www.pouet.net/groups.php
+
+* https://en.wikipedia.org/wiki/Demoscene#List_of_demoparties[Relate Parties]
++
+A demoparty is an event that gathers demosceners and other computer enthusiasts. You can find most demoparties' schedule on https://www.demoparty.net/.
+
+* Related tutorials
+** https://github.com/psenough/teach_yourself_demoscene_in_14_days[Teach Yourself Demoscene in 14 Days] - https://news.ycombinator.com/item?id=21470398[Comments on Hacker News]
+
+* https://www.geeks3d.com/[Geeks3D] - 3D tech news, graphics cards, graphics programming and demoscene
+
+
+* Related questions
+** https://www.zhihu.com/question/20204817[那些 64k 的 3D 动画怎么实现这么大的压缩率的？]
+** https://www.zhihu.com/question/23831433[Prophecy 的 3D 电影《彗星撞地球》是怎么压缩成 64k 图片的？]
+** https://www.zhihu.com/question/20834390[为什么 Warez 出品的动画能有几十万倍的压缩比？为什么不能把这些技术运用到常规的压缩中去？]
+
+NOTE: 不保证本 repo 中资源的安全性。
